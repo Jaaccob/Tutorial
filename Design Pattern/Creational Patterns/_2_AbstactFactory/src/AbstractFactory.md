@@ -1,4 +1,5 @@
 #Abstract Factory
+
 Wzorzec pozwala tworzyć grupy obiektów bez określania ich konkretnych klas
 <p>
     Wzorzec ten zapewnia jeden z najlepszych sposobów tworzenia obiektów. Ważne jest aby wszystkie obiekty implementowały
