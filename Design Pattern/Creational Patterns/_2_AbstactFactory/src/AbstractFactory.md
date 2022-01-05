@@ -1,4 +1,4 @@
-#Abstract Factory
+<h1>Abstract Factory</h1>
 
 Wzorzec pozwala tworzyć grupy obiektów bez określania ich konkretnych klas
 <p>
